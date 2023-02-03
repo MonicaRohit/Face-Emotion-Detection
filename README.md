@@ -1,6 +1,6 @@
 # Face-Emotion-Detection
-Problem Statement![image](https://user-images.githubusercontent.com/108734660/216535276-ea756417-e546-420b-8fa9-ae83895a9322.png)
- Emotion detection has been around for ages, taking a step forward, human emotion displayed by face and felt by brain captured in other video electric signal or image form can be approximated. Human emotion detection is the need of the hour so that modern artificial intelligence systems can emulate and gauge reactions from face. This can be helpful to make informed decision be it regarding identification of intent, promotion of offers or security related threats.
+[image](https://user-images.githubusercontent.com/108734660/216535276-ea756417-e546-420b-8fa9-ae83895a9322.png)
+Emotion detection has been around for ages, taking a step forward, human emotion displayed by face and felt by brain captured in other video electric signal or image form can be approximated. Human emotion detection is the need of the hour so that modern artificial intelligence systems can emulate and gauge reactions from face. This can be helpful to make informed decision be it regarding identification of intent, promotion of offers or security related threats.
 
 It can also be used in different fields,  for e.g. Retailers may use these metrics to evaluate customer interest. Healthcare providers can provide better service by using additional information about patients' emotional state during treatment. Entertainment producers can monitor audience engagement in events to consistently create desired content.
 
